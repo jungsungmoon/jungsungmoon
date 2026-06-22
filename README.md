@@ -17,6 +17,8 @@
 > - [Dacon, AI Part Leader](https://dacon.io/myprofile/429567/home)
 > 
 > - [Elice, Contents Team Leader](https://elice.io/)
+>
+> - [Multicampus, SSAFY team](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
 
 ## Awards
 > - [Dacon AI contest to predict the price of agriculture](https://dacon.io/competitions/official/235801/overview/description)
