@@ -1,7 +1,7 @@
 <p align="center"><img src="https://github.com/jungsungmoon/jungsungmoon/blob/main/KakaoTalk_20220214_152219272.jpg" height="350" /></p>
 
 ## Hi 👋
-[Notion](https://moonsworkspace.notion.site/moonsworkspace/Moon-s-Workspace-9506b0b6ca234f94b95153edafdc86c9)
+[AboutME](https://jungsungmoon.github.io/AboutME/)
 
 ## Studied in
 > - Pukyong National University, Department of System Management Engineering, Majoring in Industrial Engineering
