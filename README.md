@@ -97,9 +97,3 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jungsungmoon&show_icons=true&theme=default&hide_border=true)
-
-</div>
